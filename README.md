@@ -4,6 +4,7 @@
 
 <p align="left">
   <img height="200" src="img/Peter.jpg" />
+  <img height="200" src="img/10cosas.jpg" />
 </p>
 
 ## Objetivos del Proyecto
